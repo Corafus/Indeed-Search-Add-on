@@ -25,5 +25,5 @@ print(len(elems))
 sheet['C2'].value = elems[67].getText()
 wb.save('example.xlxs')
 
-
+#just making a change.
 #div class="jobsearch-InlineCompanyRating icl-u-xs-mt--xs jobsearch-DesktopStickyContainer-companyrating"
